@@ -43,11 +43,11 @@
   "peerDependencies": {
     "@angular/common": ">=v14",
     "@angular/core": ">=v14",
-    "rxjs": "^6.6.7 || ^7.6.0",
-    "query-string": "^8.1.0"
+    "rxjs": ">=v6.6.7",
+    "query-string": ">=8.1.0"
   },
   "dependencies": {
-    "rxdb": "^15.9.1",
-    "tslib": "2.0.3"
+    "rxdb": ">=15.9.1",
+    "tslib": ">=2.0.3"
   }
 }
