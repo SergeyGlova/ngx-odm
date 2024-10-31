@@ -6,3 +6,5 @@
 /.nx/cache
 .angular
 **/index.html
+
+/.nx/workspace-data
