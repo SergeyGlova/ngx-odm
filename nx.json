@@ -5,9 +5,6 @@
     "libsDir": "packages",
     "projectNameAndRootFormat": "as-provided"
   },
-  "affected": {
-    "defaultBase": "origin/master"
-  },
   "release": {
     "projects": ["packages/*"],
     "projectChangelogs": {
@@ -119,5 +116,7 @@
         "serveStaticTargetName": "serve-static"
       }
     }
-  ]
+  ],
+  "useInferencePlugins": false,
+  "defaultBase": "origin/master"
 }
