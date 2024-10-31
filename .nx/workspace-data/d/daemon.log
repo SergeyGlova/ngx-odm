@@ -1,0 +1,11 @@
+[NX Daemon Server] - 2024-10-31T10:04:26.931Z - Started listening on: /var/folders/9m/v1rmhptj0fl3bq6qlddtvv340000gn/T/324e71819b54fcb0ad33/d.sock
+[NX Daemon Server] - 2024-10-31T10:04:26.933Z - [WATCHER]: Subscribed to changes within: /Users/sergijglova/Documents/GitHub/last/ngx-odm (native)
+[NX Daemon Server] - 2024-10-31T10:04:26.942Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-31T10:04:26.942Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-31T10:04:26.943Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-31T10:04:26.944Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-31T10:04:26.944Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-31T10:04:26.944Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-10-31T10:04:26.944Z - [WATCHER]: Stopping the watcher for /Users/sergijglova/Documents/GitHub/last/ngx-odm (sources)
+[NX Daemon Server] - 2024-10-31T10:04:26.945Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-31T10:04:26.945Z - [WATCHER]: Stopping the watcher for /Users/sergijglova/Documents/GitHub/last/ngx-odm (outputs)
