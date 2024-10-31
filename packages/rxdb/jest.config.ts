@@ -1,5 +1,5 @@
 /* eslint-disable import/no-default-export */
-import { workspaceRoot } from '@nrwl/tao/src/utils/app-root';
+import { workspaceRoot } from '@nx/devkit';
 import type { Config } from 'jest';
 
 const ignoredModules = [
