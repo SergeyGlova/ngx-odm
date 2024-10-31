@@ -114,7 +114,6 @@
     "@jscutlery/semver": "4.2.0",
     "@nrwl/eslint-plugin-nx": "17.3.2",
     "@nrwl/jest": "17.3.2",
-    "@nrwl/tao": "17.3.2",
     "@nrwl/web": "17.3.2",
     "@nrwl/workspace": "17.3.2",
     "@nx/angular": "17.3.2",
